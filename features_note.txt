@@ -1,0 +1,4 @@
+Time series data has a problem, its when the data stops. How do you predict future values without data?
+Consider
+- Sliding window feature
+- Lag feature
